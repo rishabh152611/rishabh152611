@@ -1,4 +1,4 @@
-# 💫 About Me  
+# 💫 About Me
 I’m a **Mobile & Full-Stack Developer** who enjoys turning ideas into scalable applications.  
 Friends call me a *logic builder* — I call it solving real problems with clean architecture.
 
