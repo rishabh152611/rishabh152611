@@ -86,11 +86,15 @@ I live somewhere between **VS Code, Jupyter Notebook, SQL queries, and good musi
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Performance Metrics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh152611&theme=dark&hide_border=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rishabh152611&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabh152611&show_icons=true&theme=dark&count_private=true&hide_border=false" alt="Rishabh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh152611&layout=compact&theme=dark&hide_border=false" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh152611&theme=dark&hide_border=false" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
