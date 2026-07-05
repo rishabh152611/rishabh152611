@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About ME
 I’m a **Data Engineer, Analyst, & Full-Stack Developer** who bridges the gap between building scalable applications and engineering the data pipelines that power them. 
 
 Friends call me a *logic builder* — I call it designing clean architecture, optimizing queries, and extracting actionable insights from raw data.
